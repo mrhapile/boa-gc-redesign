@@ -23,3 +23,11 @@ To understand, evaluate, and propose a safe integration strategy for a productio
 ---
 
 This work is part of my preparation for contributing to Boa’s GC redesign.
+
+## Detailed Analysis
+
+- [Phase 1 — Blueprint Analysis](./phase1_blueprint_analysis.md)
+- [Phase 2 — Project Anatomy](./phase2_project_anatomy.md)
+- [Phase 3 — Engine Internals](./phase3_engine_room.md)
+- [Phase 4 — Developer Experience](./phase4_developer_experience.md)
+- [Final Comparison — boa_gc vs oscars](./boa_gc_vs_oscars_analysis.md)
